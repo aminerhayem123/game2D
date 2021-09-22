@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: db0c47474c066654ea5e62cc0a569596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4248911003492757760
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_0"
+  - first:
+      213: 9193324293207063478
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_1"
+  - first:
+      213: 7445627446342973513
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_2"
+  - first:
+      213: -841202770332233342
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_3"
+  - first:
+      213: -3283510180627809336
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_4"
+  - first:
+      213: 5548108880724668978
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_5"
+  - first:
+      213: 680237999508620624
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_6"
+  - first:
+      213: 8094532133213603495
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_7"
+  - first:
+      213: -3669930215179920219
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_8"
+  - first:
+      213: 10034732277495791
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_9"
+  - first:
+      213: 7928435017133962382
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_10"
+  - first:
+      213: -3562994295763036542
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_11"
+  - first:
+      213: 4988260865240015508
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_12"
+  - first:
+      213: 3274174380582011197
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_13"
+  - first:
+      213: 6061655654589932563
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_14"
+  - first:
+      213: 7332705859770775073
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_15"
+  - first:
+      213: 172399309870732035
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_16"
+  - first:
+      213: 7521970129871443165
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_17"
+  - first:
+      213: -7367772309789973424
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_18"
+  - first:
+      213: -3601099446945281896
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_19"
+  - first:
+      213: 7505630277543851518
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_20"
+  - first:
+      213: -3065865177883059755
+    second: "\u2014Pngtree\u2014vector   animals lion_811439_21"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_0"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 811
+        width: 142
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc09a34f5d805c0800000000000000
+      internalID: -4248911003492757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_1"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 840
+        width: 172
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb73918cbf359f70800000000000000
+      internalID: 9193324293207063478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_2"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 782
+        width: 234
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948fb2db6be245760800000000000000
+      internalID: 7445627446342973513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_3"
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 569
+        width: 126
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d54a89827354f0800000000000000
+      internalID: -841202770332233342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_4"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 557
+        width: 195
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbfc4333e0ae62d0800000000000000
+      internalID: -3283510180627809336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_5"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 569
+        width: 97
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b8c2c1a7defc40800000000000000
+      internalID: 5548108880724668978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_6"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 247
+        width: 219
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550f634bd0b07900800000000000000
+      internalID: 680237999508620624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_7"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 290
+        width: 205
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68e27a61e855070800000000000000
+      internalID: 8094532133213603495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_8"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 322
+        width: 158
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5ab5d9e9c11dc0800000000000000
+      internalID: -3669930215179920219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_9"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f0dc2986a32000800000000000000
+      internalID: 10034732277495791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_10"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b90534a5770e60800000000000000
+      internalID: 7928435017133962382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_11"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 41
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861d48c093bd8ec0800000000000000
+      internalID: -3562994295763036542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_12"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 41
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4922d97f3dcd93540800000000000000
+      internalID: 4988260865240015508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_13"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 36
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3186477044307d20800000000000000
+      internalID: 3274174380582011197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_14"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314229aa3b35f1450800000000000000
+      internalID: 6061655654589932563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_15"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 41
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ff0e012103c560800000000000000
+      internalID: 7332705859770775073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_16"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3031e58424c746200800000000000000
+      internalID: 172399309870732035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_17"
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41612eaf7636860800000000000000
+      internalID: 7521970129871443165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_18"
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 36
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546201de1a60c990800000000000000
+      internalID: -7367772309789973424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_19"
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 36
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89888f7e123560ec0800000000000000
+      internalID: -3601099446945281896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_20"
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 35
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5fa6c88fa592860800000000000000
+      internalID: 7505630277543851518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014vector   animals lion_811439_21"
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 41
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95a074ddbd375d0800000000000000
+      internalID: -3065865177883059755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

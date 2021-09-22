@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 6e46d575b76c47b4b802b2b74f1a4125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3181016830180536187
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_0"
+  - first:
+      213: -2159457405524457229
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_1"
+  - first:
+      213: -5945555794866464152
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_2"
+  - first:
+      213: -5063783373088255347
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_3"
+  - first:
+      213: -1444131491443491556
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_4"
+  - first:
+      213: -4310733611415897942
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_5"
+  - first:
+      213: 4609316755128441072
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_6"
+  - first:
+      213: 5909650304067183991
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_7"
+  - first:
+      213: 3760151519507244174
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_8"
+  - first:
+      213: -2692934010572399676
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_9"
+  - first:
+      213: -5954256560456412481
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_10"
+  - first:
+      213: 8727670672578412596
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_11"
+  - first:
+      213: 6488835433573265021
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_12"
+  - first:
+      213: -915609471129472418
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_13"
+  - first:
+      213: -1485628000624991203
+    second: "\u2014Pngtree\u2014board game ui cartoon button_5238858_14"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_0"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 907
+        width: 543
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f237b04fd352c20800000000000000
+      internalID: 3181016830180536187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_1"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 890
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c0245ee01802e0800000000000000
+      internalID: -2159457405524457229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_2"
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 890
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a18b661842d7da0800000000000000
+      internalID: -5945555794866464152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_3"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 624
+        width: 215
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829b8be9d3d9b9b0800000000000000
+      internalID: -5063783373088255347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_4"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 622
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3e835f0a65fbe0800000000000000
+      internalID: -1444131491443491556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_5"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 622
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8f732ae923d24c0800000000000000
+      internalID: -4310733611415897942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_6"
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 622
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8dfa6ea2597ff30800000000000000
+      internalID: 4609316755128441072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_7"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 411
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77524b014ab430250800000000000000
+      internalID: 5909650304067183991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_8"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 413
+        width: 804
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84efd582edbe2430800000000000000
+      internalID: 3760151519507244174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_9"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 209
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb934009c6c0aad0800000000000000
+      internalID: -2692934010572399676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_10"
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 154
+        width: 209
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2d47c843b3e5da0800000000000000
+      internalID: -5954256560456412481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_11"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 264
+        width: 328
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43081ab4c3aee1970800000000000000
+      internalID: 8727670672578412596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_12"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 165
+        width: 323
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e2a109279fc0a50800000000000000
+      internalID: 6488835433573265021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_13"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 38
+        width: 112
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523850890a1b43f0800000000000000
+      internalID: -915609471129472418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014board game ui cartoon button_5238858_14"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 43
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14af52643df16be0800000000000000
+      internalID: -1485628000624991203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
